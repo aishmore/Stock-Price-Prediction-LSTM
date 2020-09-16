@@ -1,4 +1,4 @@
-# Stock Price-Predictor - LSTM
+# Stock Price Precition - LSTM
 Used Long Short-Term Memory (LSTM) model to predict the closing prices for a stock. 
 Here I have used the Goldman Sachs stock but it is applicable for any stock.
 
